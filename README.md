@@ -1,4 +1,4 @@
-Markdown Recipe
+Markdown Recipe written by J-Hoplin
 ===
 ***
 
